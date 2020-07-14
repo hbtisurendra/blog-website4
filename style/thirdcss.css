@@ -1,0 +1,17 @@
+.thirdc {
+    color: seagreen;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    display: grid;
+    padding: 5%;
+}
+
+.socialsharing {
+    display: flex;
+    padding-top: 20%;
+}

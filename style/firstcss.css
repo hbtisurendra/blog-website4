@@ -1,0 +1,40 @@
+h1 {
+    color: brown;
+}
+
+p {
+    color: crimson;
+}
+
+ul {
+    display: flex;
+    color: darkmagenta;
+    list-style: none;
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: indigo;
+    color: white;
+    text-align: center;
+}
+
+.firstc {
+    color: royalblue;
+}
+
+.secondc {
+    color: salmon;
+}
+
+.homenav {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 20px 10px;
+}
+
+.blogheader {
+    background-color: #f1f1f1;
+}

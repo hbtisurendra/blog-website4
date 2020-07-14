@@ -1,0 +1,15 @@
+.socialsection {
+    display: block;
+}
+
+.authorinfo {
+    display: flex;
+}
+
+img {
+    width: 100%;
+}
+
+.avatar {
+    width: 100%;
+}
